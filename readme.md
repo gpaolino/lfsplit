@@ -36,12 +36,6 @@ Run these commands to get started quickly: <br/>
 &emsp; $> python3 -m venv .venv <br/>
 &emsp; $> source .venv/bin/activate <br/>
 &emsp; $> python3 -m pip install -r requirements.txt <br/>
-&emsp; $> sudo apt-get install python3-tk python3-dev <br/>
-
-Make some small changes to the Python script: <br/>
-&emsp; Change the shebang line in the Python script as following: #!.venv/bin/python <br/>
-&emsp; Rename the Python script as *.py <br/>
-&emsp; Make it executable using the command: $> chmod +x lfsplit.py <br/>
 
 ### Install LFSplit as a Local Package
 Navigate to the src directory and install your local package: <br/>
